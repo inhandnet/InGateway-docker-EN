@@ -10,4 +10,4 @@ Welcome to MobiusPi development platform!
    :maxdepth: 2
    :caption: User manual
 
-   Docker user manual.md
+   Docker-user-manual.md
