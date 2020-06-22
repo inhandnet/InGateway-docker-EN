@@ -30,17 +30,17 @@ Connect IG902 to the power source and to a PC with an Ethernet cable according t
 <a id="set-lan-parameters"> </a>  
 
 ### 1.2 Set LAN Parameters: Access the IG902 Through LAN
-To set the IG902 LAN network parameters, see [Access IG902 in a LAN](https://ingateway-firmware-en.readthedocs.io/en/latest/IG902-Quick-Start-Manual.html#set-lan-parameters-access-the-ig902-through-lan).
+To set the IG902 LAN network parameters, see [Access IG902 in a LAN](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#set-lan-parameters-access-the-ig902-through-lan).
 
 <a id="set-wan-parameters"> </a>  
 
 ### 1.3 Set WAN Parameters: Connect IG902 to the Internet
-To set the IG902 WAN network parameters, see [Connect IG902 to the Internet](https://ingateway-firmware-en.readthedocs.io/en/latest/IG902-Quick-Start-Manual.html#set-wan-parameters-connect-ig902-to-the-internet).
+To set the IG902 WAN network parameters, see [Connect IG902 to the Internet](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#set-wan-parameters-connect-ig902-to-the-internet).
 
 <a id="update-the-firmware"> </a>  
 
 ### 1.4 Update the firmware
-To obtain the latest firmware version of IG902 and updated functions, contact the customer service center. To update the IG902 firmware, see [Update the IG902 software version](https://ingateway-firmware-en.readthedocs.io/en/latest/IG902-Quick-Start-Manual.html#update-the-software).<font color=#FF0000> (The firmware version should be 2.0.0.r12057 and above)</font>
+To obtain the latest firmware version of IG902 and updated functions, contact the customer service center. To update the IG902 firmware, see [Update the IG902 software version](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#update-the-software).<font color=#FF0000> (The firmware version should be 2.0.0.r12057 and above)</font>
 
 <a id="enable-and-configure-docker-manager"> </a>  
 
