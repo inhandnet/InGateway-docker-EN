@@ -4,8 +4,8 @@ Docker is an open source application container engine that allows developers to 
 
   - [1. Prepare IG902 Hardware and Network Environment](#prepare-ig902-hardware-and-network-environment)
     - [1.1 Connect IG902 to the Power Source and to a PC with a Network Cable](#connect-ig902-to-the-power-source-and-to-a-pc-with-a-network-cable)
-    - [1.2 Set LAN Parameters: Access the IG902 Through LAN](#set-lan-parameters)
-    - [1.3 Set WAN Parameters: Connect IG902 to the Internet](#set-wan-parameters)
+    - [1.2 Access the IG902](#set-lan-parameters)
+    - [1.3 Connect IG902 to the Internet](#set-wan-parameters)
     - [1.4 Update the firmware](#update-the-firmware)
   - [2. Enable and configure Docker manager](#enable-and-configure-docker-manager)
     - [2.1 Install Docker SDK and enable Docker manager](#install-docker-sdk-and-enable-docker-manager)
@@ -29,13 +29,13 @@ Connect IG902 to the power source and to a PC with an Ethernet cable according t
 
 <a id="set-lan-parameters"> </a>  
 
-### 1.2 Set LAN Parameters: Access the IG902 Through LAN
-To set the IG902 LAN network parameters, see [Access IG902 in a LAN](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#set-lan-parameters-access-the-ig902-through-lan).
+### 1.2 Access the IG902
+Acess the IG902 by referring to [Access the IG902](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#set-lan-parameters-access-the-ig902-through-lan).
 
 <a id="set-wan-parameters"> </a>  
 
-### 1.3 Set WAN Parameters: Connect IG902 to the Internet
-To set the IG902 WAN network parameters, see [Connect IG902 to the Internet](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#set-wan-parameters-connect-ig902-to-the-internet).
+### 1.3 Connect IG902 to the Internet
+Connect IG902 to the Internet by referring to [Connect IG902 to the Internet](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#set-wan-parameters-connect-ig902-to-the-internet).
 
 <a id="update-the-firmware"> </a>  
 
