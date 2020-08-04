@@ -140,7 +140,7 @@ There are two ways to add docker images for Portainer：
 
 When deploying the container, add **Volume Mapping** to the **Advanced Container Settings > Volumes** page of the Portainer. The following figure maps the files in the dev directory of IG902 to the dev directory in the container (The corresponding interface file is included in the dev directory of IG902).  
 
-![](images/2020-06-29-10-21-33.png)  
+![](images/2020-07-31-16-41-20.png)    
 
 Enable **Privileged mode** on the **Advanced Container Settings > Runtime & Resouces** page of the Portainer (if it is not enabled, using the serial port will prompt that there is no operation authority).  
 
