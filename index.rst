@@ -49,3 +49,4 @@ Docker is an open source application container engine that allows developers to 
    :caption: User manual
 
    Docker-user-manual.md
+   Azure-Edge-EN.md
