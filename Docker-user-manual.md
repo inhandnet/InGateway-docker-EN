@@ -164,11 +164,11 @@ On the **Advanced Container Settings > Restart Policy** page of the Portainer, s
 ### Run Ubuntu in IG902
 - Step 1: Pull the Ubuntu image on the **Local > Images** page of the Portainer, as shown below：  
   
-  ![](images/2020-06-29-13-45-37.png)  
+  ![](images/2020-06-29-13-51-58.png)  
 
 - Step 2: Go to **Local > Containers** page of the Portainer, click **Add container** to add a new container. Select the Ubuntu image downloaded in the previous step as the containers image. At the same time, click **Advanced Container Settings > Command & Logging**, check **Interactive & TTY** in the **Console**. After the configuration is complete, click **Deploy the container** to deploy the container.  
   
-  ![](images/2020-06-29-13-51-58.png)  
+  ![](images/2020-06-29-13-45-37.png)  
 
   ![](images/2020-06-29-13-52-14.png)
 
