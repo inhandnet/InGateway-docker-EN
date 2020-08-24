@@ -83,7 +83,7 @@ If you have deployed the corresponding IoT Hub and IoT Edge devices on Azure IoT
 
 #### 1.2.1 Configure IG902 to connect to the Internet
 
-As for how to configure IG902 to connect to the Internet, see [Connect IG902 to the Internet](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#set-wan-parameters-connect-ig902-to-the-internet).
+As for how to configure IG902 to connect to the Internet, see [Connect IG902 to the Internet](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#set-wan-parameters).
 
 <a id="update-ig902-software-version"> </a>
 
