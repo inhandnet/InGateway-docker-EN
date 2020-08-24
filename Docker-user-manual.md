@@ -37,12 +37,12 @@ Connect IG902 to the power source and to a PC with an Ethernet cable according t
 <a id="set-lan-parameters"> </a>  
 
 ### 1.2 Access the IG902
-Acess the IG902 by referring to [Access the IG902](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#set-lan-parameters-access-the-ig902-through-lan).
+Acess the IG902 by referring to [Access the IG902](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#set-lan-parameters).
 
 <a id="set-wan-parameters"> </a>  
 
 ### 1.3 Connect IG902 to the Internet
-Connect IG902 to the Internet by referring to [Connect IG902 to the Internet](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#set-wan-parameters-connect-ig902-to-the-internet).
+Connect IG902 to the Internet by referring to [Connect IG902 to the Internet](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#set-wan-parameters).
 
 <a id="update-the-firmware"> </a>  
 
