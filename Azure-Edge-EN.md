@@ -32,12 +32,14 @@ You need to prepare the following items before start (as for how to get the IG90
 If you have deployed the corresponding IoT Hub and IoT Edge devices on Azure IoT, skip this section.
 
 - Step 1: Log in to Azure IoT  
-Visit <https://portal.azure.cn/> and log in to Azure.
+
+  Visit <https://portal.azure.cn/> and log in to Azure.
   
   ![](images/2020-04-01-11-17-22.png)
 
 - Step 2: Add IoT Hub  
-After successful login, the page is as follows. Select **IoT Hub**.
+
+  After successful login, the page is as follows. Select **IoT Hub**.
   
   ![](images/2020-04-01-11-20-56.png)
   
@@ -52,7 +54,8 @@ After successful login, the page is as follows. Select **IoT Hub**.
   ![](images/2020-04-01-11-28-51.png)
 
 - Step 3: Add an IoT Edge device  
-On the **IoT Hub** page, click the target IoT Hub. On the **IoT Edge** that appears, click **Add an IoT Edge device**.
+
+  On the **IoT Hub** page, click the target IoT Hub. On the **IoT Edge** that appears, click **Add an IoT Edge device**.
   
   ![](images/2020-07-01-10-43-59.png)
   
@@ -63,7 +66,8 @@ On the **IoT Hub** page, click the target IoT Hub. On the **IoT Edge** that appe
 <a id="copy-connection-string"> </a>
 
 - Step 4: Copy the connection string of the IoT Edge device  
-After the IoT Edge device is created, the page is as follows:
+  
+  After the IoT Edge device is created, the page is as follows:
   
   ![](images/2020-07-01-10-46-25.png)
   
@@ -86,10 +90,12 @@ As for how to configure IG902 to connect to the Internet, see [Connect IG902 to 
 #### 1.2.2 Update the IG902 software version
 
 - Update the IG902 firmware version  
-As for how to update the IG902 firmware version, see [Update the IG902 software version](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#update-the-software).
+  
+  As for how to update the IG902 firmware version, see [Update the IG902 software version](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#update-the-software).
 
 - Update the IG902 Docker SDK  
-As for how to update the IG902 Docker SDK, see [Install Docker SDK.](http://docker.ig.inhandnetworks.com/en/latest/Docker-user-manual.html#install-docker-sdk-and-enable-docker-manager)
+  
+  As for how to update the IG902 Docker SDK, see [Install Docker SDK.](http://docker.ig.inhandnetworks.com/en/latest/Docker-user-manual.html#install-docker-sdk-and-enable-docker-manager)
 
 - Update the IG902 Azure IoT Edge SDK  
 Choose **Edge Computing >> Cloud Edge Computing**, uncheck **Enable Security Daemon**, click **Upgrade**, select the Azure IoT Edge SDK file, and click **Confirm**.
