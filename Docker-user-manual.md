@@ -47,7 +47,7 @@ Connect IG902 to the Internet by referring to [Connect IG902 to the Internet](ht
 <a id="update-the-firmware"> </a>  
 
 ### 1.4 Update the firmware
-To obtain the latest firmware version of IG902 and updated functions, contact the customer service center. To update the IG902 firmware, see [Update the IG902 software version](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#update-the-software).<font color=#FF0000> (The firmware version should be 2.0.0.r12057 and above)</font>
+To obtain the latest firmware version of IG902 and updated functions, please visit the [Resource](https://www.inhandnetworks.com/downlist/cid-148/). To update the IG902 firmware, see [Update the IG902 software version](http://manual.ig.inhandnetworks.com/en/latest/IG902-Quick-Start-Manual.html#update-the-software).<font color=#FF0000> (The firmware version should be 2.0.0.r12057 and above)</font>
 
 <a id="enable-and-configure-docker-manager"> </a>  
 
@@ -56,7 +56,7 @@ To obtain the latest firmware version of IG902 and updated functions, contact th
 <a id="install-docker-sdk-and-enable-docker-manager"> </a>  
 
 ### 2.1 Install Docker SDK and enable Docker manager
-The Docker SDK integrates the operating environment and docker image manager required to run the docker image. Before using Docker, you must install the Docker SDK. To obtain the Docker SDK, please contact the customer service center.  </br>
+The Docker SDK integrates the operating environment and docker image manager required to run the docker image. Before using Docker, you must install the Docker SDK. To obtain the Docker SDK, please visit the [Resource](https://www.inhandnetworks.com/downlist/cid-148/).  </br>
 - Step 1: If you already have the Docker SDK, choose Edge Computing > Docker Manager page of IG902, close the Docker Manager and import the Docker SDK.  
 
   ![](images/2020-08-04-14-33-23.png)  

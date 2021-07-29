@@ -17,7 +17,7 @@ This document describes how to deploy and run an IoT Edge module that simulates 
 
 ## 1. Environment Preparations
 
-You need to prepare the following items before start (as for how to get the IG902 software version, contact the customer services):
+You need to prepare the following items before start (as for how to get the IG902 software version, please visit the [Resource](https://www.inhandnetworks.com/downlist/cid-148/).):
 
 - Azure IoT account
 - IG902 firmware version: v2.0.0.r12644 or later
